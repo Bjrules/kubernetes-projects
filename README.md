@@ -1,0 +1,2 @@
+# kubernetes-projects
+full deployment
